@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OutlookLock", "OutlookLock\OutlookLock.csproj", "{579FF374-0351-47E7-BDE6-BC75DD7614C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OutlookLockWeb", "OutlookLockWeb\OutlookLockWeb.csproj", "{DA060452-8719-4AFB-BFEB-DC406CED21B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{579FF374-0351-47E7-BDE6-BC75DD7614C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{579FF374-0351-47E7-BDE6-BC75DD7614C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{579FF374-0351-47E7-BDE6-BC75DD7614C5}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{579FF374-0351-47E7-BDE6-BC75DD7614C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{579FF374-0351-47E7-BDE6-BC75DD7614C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{579FF374-0351-47E7-BDE6-BC75DD7614C5}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{DA060452-8719-4AFB-BFEB-DC406CED21B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA060452-8719-4AFB-BFEB-DC406CED21B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA060452-8719-4AFB-BFEB-DC406CED21B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA060452-8719-4AFB-BFEB-DC406CED21B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22D97978-03F7-41F6-BF90-70754B419005}
+	EndGlobalSection
+EndGlobal
